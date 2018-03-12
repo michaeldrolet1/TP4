@@ -1,0 +1,17 @@
+﻿  Usager.cpp
+  Solde.cpp
+  ProduitSolde.cpp
+  ProduitAuxEncheres.cpp
+  Produit.cpp
+  main.cpp
+  Gestionnaire.cpp
+  Fournisseur.cpp
+  ClientPremium.cpp
+  Client.cpp
+  Generating Code...
+c:\users\michael\google drive\c++\tp4\tp4\tp4\client.cpp(30): error C4716: 'Client::obtenirTotalAPayer': must return a value
+c:\users\michael\google drive\c++\tp4\tp4\tp4\clientpremium.cpp(26): error C4716: 'ClientPremium::obtenirTotalAPayer': must return a value
+c:\users\michael\google drive\c++\tp4\tp4\tp4\gestionnaire.cpp(16): error C4716: 'Gestionnaire::obtenirChiffreAffaires': must return a value
+c:\users\michael\google drive\c++\tp4\tp4\tp4\produit.cpp(29): error C4716: 'Produit::obtenirPrix': must return a value
+c:\users\michael\google drive\c++\tp4\tp4\tp4\produitsolde.cpp(19): error C4716: 'ProduitSolde::obtenirPrix': must return a value
+c:\users\michael\google drive\c++\tp4\tp4\tp4\usager.cpp(36): error C4716: 'Usager::obtenirTotalAPayer': must return a value
